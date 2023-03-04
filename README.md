@@ -7,4 +7,6 @@
 
 [![Linkedin: osiakmikolaj](https://img.shields.io/badge/-osiakmikolaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osiakmikolaj/)](https://www.linkedin.com/in/osiakmikolaj/)
 
-![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=osiakmikolaj&hide=contribs&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osiakmikolaj)](https://github.com/osiakmikolaj/github-readme-stats)
+
+<!-- ![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=osiakmikolaj&hide=contribs&count_private=true&show_icons=true) -->
