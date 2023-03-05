@@ -13,6 +13,7 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/PHP" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/CodePen/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/Hoppscotch" />
 </div>
 
 <br>
