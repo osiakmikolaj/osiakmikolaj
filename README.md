@@ -20,9 +20,15 @@
 
 <br>
 
-<div style="display: flex; gap: 25px;">
+<div style="display: flex; gap: 10px;">
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osiakmikolaj&layout=compact&theme=dark)](https://github.com/osiakmikolaj/github-readme-stats)
+
+</div>
+<div>
+
 ![Mikołaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=osiakmikolaj&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)
 
+</div>
 </div>
