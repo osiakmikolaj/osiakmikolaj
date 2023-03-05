@@ -3,11 +3,11 @@
 ### Things that I use
 
 <div style="display: flex; gap: 15px;">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/GIT" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/GitKraken" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" />
+    <img style="display: block; user-select: none;" height="32" width="32" src="https://cdn.simpleicons.org/JavaScript" />
+    <img style="display: block; user-select: none;" height="32" width="32" src="https://cdn.simpleicons.org/GIT" />
+    <img style="display: block; user-select: none;" height="32" width="32" src="https://cdn.simpleicons.org/GitKraken" />
+    <img style="display: block; user-select: none;" height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
+    <img style="display: block; user-select: none;" height="32" width="32" src="https://cdn.simpleicons.org/HTML5" />
 </div>
 
 ### My links
