@@ -4,6 +4,7 @@
 
 ### Things that I use everyday
 
+<div style="display: flex;">
 <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/JavaScript" />
 <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
 <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/HTML5" />
@@ -12,6 +13,7 @@
 <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/PHP" />
 <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode" />
 <img style="padding: 5px" height="32" width="32" src="https://cdn.simpleicons.org/CodePen/white" />
+</div>
 
 <br>
 
