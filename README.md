@@ -1,7 +1,4 @@
 # Hi there, I'm Mikołaj 👋
-
-### Welcome to my Github!
-
 ### Things that I use everyday
 
 <div style="display: flex; gap: 10px;">
