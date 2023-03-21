@@ -2,6 +2,7 @@
 ### Things that I use everyday
 
 <div style="display: flex; gap: 10px;">
+<img height="32" width="32" src="https://cdn.simpleicons.org/TypeScript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" />
