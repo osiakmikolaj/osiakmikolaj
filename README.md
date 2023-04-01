@@ -1,4 +1,4 @@
-# Hi there, I'm Mikołaj 👋
+# Hi there, I'm Mikołaj👋
 
 ### 💻 Stuff that i use every day
 
