@@ -1,6 +1,4 @@
-# Hi there, I'm Mikołaj👋
-
-### 💻 Stuff that i use every day
+### Stuff that i use every day
 
 <div style="display: flex; gap: 10px;">
 <img height="32" width="32" src="https://cdn.simpleicons.org/TypeScript" />
