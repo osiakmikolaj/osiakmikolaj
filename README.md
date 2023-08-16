@@ -1,4 +1,4 @@
-### Stuff that i use every day
+### Stuff that i use
 
 <div style="display: flex;">
 <img height="32" width="32" src="https://cdn.simpleicons.org/React" />
