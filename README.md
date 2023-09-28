@@ -1,7 +1,7 @@
 ### Stuff that i use
 
 <div style="display: flex;">
-<img height="32" width="32" src="https://cdn.simpleicons.org/React" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/Express/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript" />
