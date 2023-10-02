@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
 <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/white" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/express" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
